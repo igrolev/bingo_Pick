@@ -1,0 +1,1 @@
+$tellraw @a {"text":"","click_event":{"action":"run_command","command":"/trigger pick set 1"},"hover_event":{"action":"show_text","value":"Нажми, чтобы выбрать вариант 1"},"extra":[{"text":"[1] ","color":"aqua","bold":true},{"text":"$(name)","color":"aqua"},{"text":" → ","color":"dark_gray"},{"text":"$(objective)","color":"gray"}]}
